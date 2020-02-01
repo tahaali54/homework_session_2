@@ -49,7 +49,7 @@ class ChatList extends StatelessWidget {
           ),
           trailing: Text(
             chatItem.lastSeen,
-            style: Theme.of(context).textTheme.caption,
+            style: TextStyle(color: Colors.green),
           ),
         );
       },
