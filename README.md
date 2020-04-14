@@ -1,4 +1,4 @@
-# homework_s2
+# whatsapp_home_layout
 
 Flutter app replicating WhatsApp UI hompage layout.
 
